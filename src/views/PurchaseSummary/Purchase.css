@@ -1,0 +1,38 @@
+.purchase-title {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.purchase-items {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 2em;
+    justify-items: center;
+}
+
+.purchase-items__titles {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.purchase-items__products {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2em;
+}
+
+.purchase-items__products__name {
+    color: #97E3F8;
+}
+
+.purchase-total {
+    display: flex;
+    justify-content: center;
+    border: 2px solid #FBFAC4; 
+    margin-top: 2em;
+}
+
+.purchase-total__price {
+    font-weight: bold;
+    font-size: 1.5em;
+}
