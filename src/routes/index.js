@@ -5,7 +5,7 @@ import Login from "../views/Login";
 import PurchaseSummary from "../views/PurchaseSummary";
 
 const RoutesComponents = () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
