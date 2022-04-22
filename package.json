@@ -1,7 +1,7 @@
 {
   "name": "react-shop",
   "version": "0.2.0",
-  "homepage": "http://enrique1994mex.github.io/prueba-shopping",
+  "homepage": "https://enrique1994mex.github.io/prueba-shopping/",
   "private": true,
   "devDependencies": {
     "gh-pages": "^2.2.0",
