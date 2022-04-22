@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/prueba-shopping/static/css/main.4a8c8305.chunk.css",
+    "main.js": "/prueba-shopping/static/js/main.51aed685.chunk.js",
+    "main.js.map": "/prueba-shopping/static/js/main.51aed685.chunk.js.map",
+    "runtime-main.js": "/prueba-shopping/static/js/runtime-main.d6798d2e.js",
+    "runtime-main.js.map": "/prueba-shopping/static/js/runtime-main.d6798d2e.js.map",
+    "static/css/2.7300059f.chunk.css": "/prueba-shopping/static/css/2.7300059f.chunk.css",
+    "static/js/2.885e426b.chunk.js": "/prueba-shopping/static/js/2.885e426b.chunk.js",
+    "static/js/2.885e426b.chunk.js.map": "/prueba-shopping/static/js/2.885e426b.chunk.js.map",
+    "index.html": "/prueba-shopping/index.html",
+    "precache-manifest.0ec5711c334f28f5a8baf60a9ae86718.js": "/prueba-shopping/precache-manifest.0ec5711c334f28f5a8baf60a9ae86718.js",
+    "service-worker.js": "/prueba-shopping/service-worker.js",
+    "static/css/2.7300059f.chunk.css.map": "/prueba-shopping/static/css/2.7300059f.chunk.css.map",
+    "static/css/main.4a8c8305.chunk.css.map": "/prueba-shopping/static/css/main.4a8c8305.chunk.css.map",
+    "static/js/2.885e426b.chunk.js.LICENSE.txt": "/prueba-shopping/static/js/2.885e426b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/prueba-shopping/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6798d2e.js",
+    "static/css/2.7300059f.chunk.css",
+    "static/js/2.885e426b.chunk.js",
+    "static/css/main.4a8c8305.chunk.css",
+    "static/js/main.51aed685.chunk.js"
+  ]
+}
